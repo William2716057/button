@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     function brightenCircle() {
         //brightened state
-        lightButton.style.backgroundColor = "#55a7ff"; 
+        lightButton.style.backgroundColor = "#87CEEB"; 
     }
 
     //reset to the original colour 
